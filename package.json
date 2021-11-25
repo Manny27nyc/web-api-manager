@@ -5,7 +5,7 @@
     "author": "Peter Snyder <psnyde2@uic.edu> (https://www.cs.uic.edu/~psnyder/)",
     "license": "GPL-3.0",
     "dependencies": {
-        "tar": "^4.4.8"
+        "tar": "^4.4.19"
     },
     "homepage": "https://github.com/snyderp/web-api-manager",
     "bugs": {
